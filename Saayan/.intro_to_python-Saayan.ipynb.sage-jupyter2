@@ -152,5 +152,5 @@
 {"cell_type":"markdown","id":"f0d5c5","input":"Now lets create some visuals for our data! First we will create a dataframe of random numbers using numpy.","metadata":{"id":"8HS-nAMFWETZ"},"pos":96,"type":"cell"}
 {"cell_type":"markdown","id":"f98b93","input":"**We can see how many unique words are used in the book.**\n","metadata":{"id":"j-TK8QgNY-9s"},"pos":122,"type":"cell"}
 {"cell_type":"markdown","id":"ffc6a6","input":"### _Text Processing Basics_\n\nNext, let's get all the words in Moby Dick by Melville!\n\n","metadata":{"id":"gGqU_WVrYGq4"},"pos":109,"type":"cell"}
-{"id":0,"time":1656431123818,"type":"user"}
-{"last_load":1656425327847,"type":"file"}
+{"id":0,"time":1656599383797,"type":"user"}
+{"last_load":1656599375869,"type":"file"}

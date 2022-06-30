@@ -46,5 +46,5 @@
 {"cell_type":"markdown","id":"ed3889","input":"This value can then be accessed as follows: (If you use parameters, the value can change based on the situation)","pos":37,"type":"cell"}
 {"cell_type":"markdown","id":"f9e884","input":"Aditionally, we can add an entry like this:","pos":6,"type":"cell"}
 {"cell_type":"markdown","id":"fbcab5","input":"Now put this all together: (if you want to use return, you can work to integrate it with your team)\n\n","pos":43,"type":"cell"}
-{"id":0,"time":1656440978438,"type":"user"}
-{"last_load":1656459842957,"type":"file"}
+{"id":0,"time":1656468283858,"type":"user"}
+{"last_load":1656468282975,"type":"file"}

@@ -26,5 +26,5 @@
 {"cell_type":"markdown","id":"cd24be","input":"### Dictionaries Review","metadata":{"id":"yr1mQTCVfmhM"},"pos":3,"type":"cell"}
 {"cell_type":"markdown","id":"da9b01","input":"## Task 4: Put everything together. \n\nCreate an outer loop to ask the user if they want to play the game. If the answer is yes, keep running the program. Keep doing this until they enter something other than yes. \n\nConsolidate all of your other code inside of this loop!\n\n","metadata":{"id":"mYVCZ2RKVF80"},"pos":24,"type":"cell"}
 {"cell_type":"markdown","id":"e02224","input":"## Task 2: Shuffle the list \n\nAt this point we have a \"deck\" of flashcards (a list of key values for our dictionary). Now you should do some research on how we can `shuffle()` this deck. \n\nWe recommend checking out python's [`random` library](https://docs.python.org/3/library/random.html) to see how to shuffle a list! You also could google \"how to shuffle a list python\".\n\n","metadata":{"id":"acolMI3gVF8w"},"pos":20,"type":"cell"}
-{"id":0,"time":1656432091044,"type":"user"}
-{"last_load":1656459842914,"type":"file"}
+{"id":0,"time":1656520149894,"type":"user"}
+{"last_load":1656510856386,"type":"file"}
